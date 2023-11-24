@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.api.shoes.model","c":"Subscriber","l":"Subscriber()","url":"%3Cinit%3E()"}]
